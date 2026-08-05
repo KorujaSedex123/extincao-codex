@@ -1,54 +1,84 @@
-# A Horda
+# 🧟 A Horda: Presença e Tensão
 
-## 🧟 A Horda: O Oceano de Carne
+> **"Um infectado é um problema. Cinco são um perigo. Vinte... não são inimigos, são uma força da natureza. Você não luta contra a Horda. Você foge dela."**
 
-> _"Um infectado é um problema. Cinco infectados são um perigo. Vinte infectados não são inimigos... são uma força da natureza, como uma enchente ou um incêndio. Você não luta contra a Horda, você foge dela."_
+No **EXTINÇÃO**, os mortos não são apenas monstros individuais com pontos de vida: eles são um ecossistema faminto e reativo. Em áreas de alta densidade populacional (Cidades, Hospitais, Esgotos ou Prédios abandonados), o silêncio é sua única blindagem real.
 
-No sistema **EXTINÇÃO**, quando o número de inimigos ultrapassa 5, paramos de rolar ataques individuais. O grupo se torna uma entidade única chamada **A Horda**.
+Para simular o pavor gradual dos sobreviventes sendo cercados pelos mortos, o Controlador utiliza o **Medidor de Presença da Horda (Níveis 1 a 6)**.
 
-#### 1. Níveis de Densidade
+---
 
-O Mestre define a Horda pelo tamanho e perigo:
+## 📊 1. O Medidor de Presença (Níveis 1 a 6)
 
-| Nível        | Qtd. Aprox. | Comportamento                                          |
-| ------------ | ----------- | ------------------------------------------------------ |
-| **Bando**    | 5 a 10      | Bloqueiam corredores. Perigosos se cercarem.           |
-| **Multidão** | 11 a 30     | Ocupam ruas inteiras. Derrubam portas e cercas.        |
-| **Maré**     | 30+         | Imparável. Capotam veículos e ignoram barreiras leves. |
+O Controlador desenha ou exibe um medidor circular dividido em 6 partes na mesa ou na interface do Foundry VTT. O nível inicial da área define o quão perto a Horda está de notar os sobreviventes.
 
-#### 2. Regra de Ouro: O Abraço da Morte
+```
+ NÍVEL 1 ── NÍVEL 2 ── NÍVEL 3  ►  NÍVEL 4 ── NÍVEL 5  ►  NÍVEL 6
+ └─────────────┬─────────────┘     └───────────┬──────┘     └───┬───┘
+               ▼                               ▼                ▼
+      HORDA INVISÍVEL                     HORDA ATIVA      ATAQUE TOTAL
+   (Zumbis não te viram)             (Zumbis convergem)   (Abraço da Morte)
+```
 
-_Infectados_ não lutam boxe; eles agarram, puxam e mordem. Se **3 ou mais zumbis** conseguirem chegar ao alcance corpo a corpo (1 metro) de um sobrevivente, a regra do _Abraço da Morte_ é ativada imediatamente:
+### 🟩 Nível 1: Silêncio de Necrotério
+*   **A situação:** O silêncio na área é absoluto. Apenas gemidos distantes ecoam ao longe. Os zumbis estão no estado "adormecido" ou dispersos.
+*   **Ficção:** O grupo se move livremente. Testes de Furtividade comuns têm dificuldade reduzida em 1 nível.
 
-1. **Imobilizado:** O jogador não pode se mover.
-2. **Dano Automático:** No início de cada turno do jogador, ele sofre **2 Pontos de Dano direto** (sem rolagem de ataque dos zumbis). Isso representa arranhões e mordidas múltiplas.
-3. **Risco de Infecção:** O Dano do Abraço é considerado contágio direto (exige teste de Infecção).
+### 🟩 Nível 2: Ruídos Suspeitos
+*   **A situação:** Os mortos na região ouviram estalos ou sons leves. Eles começam a erguer as cabeças e a dar passos arrastados na direção da zona.
+*   **Ficção:** O Controlador pode descrever vultos cruzando as janelas ou o som de unhas arranhando as paredes próximas.
 
-**Como Escapar do Abraço?** O jogador deve gastar sua Ação Principal para fazer um teste de **Força (Dificuldade 2)**.
+### 🟩 Nível 3: Alerta Amarelo
+*   **A situação:** A tensão na área está palpável. Os infectados estão alertas, farejando o ar e investigando ativamente qualquer perturbação.
+*   **Ficção:** Qualquer teste de Furtividade falho agora gera um encontro imediato com um Infectado Necrótico (zumbi lento) errante.
 
-* _Sucesso:_ Empurra os zumbis e se liberta (pode mover 1m).
-* _Falha:_ Continua preso e sofrerá dano novamente no próximo turno.
-* _Ajuda:_ Outro sobrevivente pode atirar na Horda ou puxar o amigo para conceder +1d6 no teste de fuga.
+### 🟧 Nível 4: Convergência Ativa (Avistados!)
+*   **A situação:** O grupo fez barulho ou cometeu erros suficientes para que os mortos saibam que há humanos na área. Eles começam a convergir ativamente para a posição dos sobreviventes.
+*   **Ficção:** Um pequeno grupo (Bando de 3 a 5 zumbis) ou um **Infectado Raivoso (Corredor)** surge de uma esquina ou sala adjacente e ataca imediatamente. O combate tático começa.
 
-#### 3. Combatendo a Massa
+### 🟧 Nível 5: O Cerco Se Fecha
+*   **A situação:** Os mortos estão vindo de todas as direções. Portas começam a ceder e janelas são estilhaçadas à medida que mais infectados são atraídos pelo som do combate.
+*   **Ficção:** No início de cada rodada de combate, novos infectados entram no mapa vindo de direções aleatórias. Tentar fugir exige testes de *Atletismo ou Esquiva (Dificuldade 2)*.
 
-Você não mata a Horda com tiros na cabeça. Você precisa de **Controle de Multidão**.
+### 🟥 Nível 6: Ataque Total (O Estouro da Horda)
+*   **A situação:** O medidor estourou. Uma maré imparável de carne podre e pavor invade o local. A Horda localizou a posição exata de todos e avança como uma enchente.
+*   **Ficção:** Fugir torna-se a única opção viável para a sobrevivência. Qualquer personagem pego em campo aberto ou encurralado é engolido pela massa de corpos, ativando instantaneamente a temida regra do **Abraço da Morte**.
 
-* **Armas de Fogo Comuns:** Apenas reduzem a Horda temporariamente. Matar 1 zumbi não muda a mecânica do Abraço se houver outros 20 atrás.
-* **Explosivos (Granadas/Molotov):** A única forma de dispersar uma Horda.
-  * _Dano:_ Causa dano a todos na área e quebra o Abraço da Morte.
-  * _Efeito Moral:_ O fogo ou estrondo pode fazer a Horda recuar ou abrir caminho por 1d6 turnos.
-* **Barricadas:** Hordas precisam de tempo para quebrar defesas.
-  * _Porta de Madeira:_ 1 Turno.
-  * _Porta Reforçada:_ 3 Turnos.
-  * _Barricada Pesada:_ 1d6+2 Turnos.
+---
 
-#### 4. O Medidor de Alerta (O Relógio do Caos)
+## ⚡ 2. Como o Medidor Sobe (Gatilhos de Ruído e Erros)
 
-Para rastrear a chegada da Horda, o Controlador pode usar um d6 visível na mesa. Começa em 1.
+O silêncio é a vida dos sobreviventes. Sempre que o grupo comete uma falha ou realiza uma ação barulhenta, o Medidor de Presença da Horda avança tiques imediatamente:
 
-* **+1:** Tiro sem silenciador.
-* **+2:** Explosão ou Grito.
-* **+1:** A cada rodada de combate barulhento que dura muito tempo.
+| Gatilho | Tiques Adicionados | Exemplo Narrativo |
+| :--- | :---: | :--- |
+| **Ação Física Ruidosa** | **+1 Tique** | Arrombar uma porta na força bruta, quebrar uma janela de vidro ou derrubar uma prateleira metálica. |
+| **Falha Crítica (Glitch)** | **+1 Tique** | Tirar maioria de '1's em testes físicos de *Furtividade*, *Atletismo* ou *Mecânica* na área silenciosa. |
+| **Disparo de Arma de Fogo** | **+2 Tiques** | Atirar com uma pistola 9mm ou revólver sem silenciador improvisado (o som ecoa por quarteirões). |
+| **Explosões ou Alarmes** | **+3 Tiques** | Detonar uma Granada de Fragmentação, Coquetel Molotov ou disparar o alarme de segurança de um carro civil. |
 
-**Quando o dado chega a 6:** Uma nova onda de inimigos aparece vinda de uma direção aleatória (bueiros, teto, janelas), ou a Horda atual recebe reforços e sobe de Nível de Densidade.
+*Nota Tática de Clima:* Em dias de chuva torrencial ou tempestade elétrica, o Controlador pode ignorar barulhos menores (como o de arrombamento de portas), pois o som da água e dos trovões mascara os passos do grupo.
+
+---
+
+## 🔇 3. Como o Medidor Desce (Alívio de Tensão)
+
+Os sobreviventes não são totalmente impotentes; eles podem usar o cérebro para acalmar a Horda ou despistar os mortos:
+
+*   **Pausa para Silêncio (-1 Ponto):** Se o grupo se trancar em um cômodo seguro, apagar todas as fontes de luz (lanternas) e permanecer em silêncio absoluto por pelo menos **10 minutos narrativos**, o medidor cai em 1 nível à medida que os infectados perdem o interesse e voltam a vagar sem rumo.
+*   **Distração Tática (-2 Pontos):** Usar itens como um rojão, um megafone ligado à distância, um rádio barulhento ou uma granada numa zona distante atrai a atenção dos mortos. O medidor de presença da área atual do grupo cai em 2 níveis imediatamente (enquanto o medidor da área de destino da distração sobe para o Nível 6 na hora).
+
+---
+
+## 💀 4. A Regra do Abraço da Morte
+
+Infectados comuns não lutam boxe; eles agarram, puxam, derrubam e cravam os dentes onde houver carne exposta. Se **3 ou mais zumbis** alcançarem a zona de toque (corpo a corpo) de um sobrevivente, o Abraço da Morte é ativado:
+
+1.  **Imobilização Total:** O sobrevivente é considerado **Agarrado**. Ele não pode realizar ações de movimento, correr ou se esquivar. Sua defesa para ataques externos cai para zero.
+2.  **Dano Automático Constante:** No início de cada um de seus turnos, enquanto estiver preso no abraço, o personagem sofre **2 de dano direto em seus PV** (ignorando os Pontos de Resistência/Stamina). Isso representa dezenas de dedos e dentes rasgando sua carne ao mesmo tempo.
+3.  **Contágio Imediato:** O dano sofrido pelo Abraço da Morte é considerado contágio biológico direto, exigindo um teste de infecção ao término do combate.
+
+### Como escapar do Abraço?
+O sobrevivente desesperado deve gastar sua **Ação Principal** para realizar um teste de **Força ou Briga (Dificuldade 2)** para empurrar a massa de corpos e conseguir respirar.
+*   **Sucesso:** O personagem consegue empurrar os zumbis e se liberta, movendo-se 1 metro para trás (fora da zona de toque).
+*   **Trabalho em Equipe:** Outro sobrevivente que esteja livre pode gastar sua ação principal para atacar a horda ou puxar o aliado preso, concedendo um bônus de **+2d6** na rolagem de fuga dele.
