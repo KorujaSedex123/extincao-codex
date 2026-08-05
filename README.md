@@ -84,7 +84,7 @@ Qualquer contribuição ajuda a garantir nossos suprimentos básicos de sobreviv
 *   **☕ Buy Me a Coffee:** Se quiser pagar um café para os desenvolvedores e manter nossas mentes focadas e acordadas contra a Horda.
     *   *Link:* *EM BREVE*
 *   **🪙 Pix (Apoio Direto):** Para doações diretas de qualquer valor (ideal para quem está no Brasil).
-    *   *Chave Pix:* [Link Live pix](livepix.gg/korujasedex).
+    *   *Chave Pix:* livepix.gg/korujasedex.
 *   **🐙 GitHub Sponsors:** Apoie de forma recorrente diretamente pelo GitHub para ajudar a financiar o desenvolvimento de melhorias e novas automações.
     *   *Link:* *EM BREVE*
 
