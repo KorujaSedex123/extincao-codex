@@ -4,24 +4,24 @@
 
 > _"Eles nem me viram. Passei por baixo do caminhão e peguei a chave. Podemos ir?"_
 
-Criança, Adolescente franzino ou "O Pequeno". Ninguém esperava que você durasse um dia lá fora. Mas ser pequeno tem suas vantagens: você cabe em dutos de ventilação, anda sobre telhados frágeis e os zumbis demoram para te notar no meio do caos. Você é a alma do grupo — a prova de que ainda existe um futuro a ser salvo.
+Criança, adolescente franzino ou alguém fisicamente muito pequeno. Ninguém esperava que você durasse sequer um dia lá fora. Mas seu tamanho traz vantagens únicas: você rasteja por dutos de ar comprimido, passa por frestas de escombros e os infectados demoram a notar seu vulto leve. Você é o símbolo de esperança do grupo — o motivo pelo qual todos continuam lutando por um amanhã.
 
-* **Estilo de Jogo:** Furtividade Extrema e Scavenging. Você entra onde ninguém entra. Evite combate direto a todo custo.
-* **Sugestão de Atributos:** Alta **Destreza** e **Percepção**. **Força** Baixa (Geralmente 1).
+* **Estilo de Jogo:** Furtividade Extrema e Scavenging ágil. Você alcança locais inacessíveis para adultos. O combate frontal deve ser evitado a todo custo.
+* **Sugestão de Atributos:** Alta **Destreza** e **Percepção**. **Força** baixa (Nível 1).
 
 #### ⭐ Habilidade Única: Invisível
 
-Devido ao tamanho, você pode passar pelo mesmo espaço de inimigos (entre as pernas) sem testes de Força. Você tem **+1d6 em Furtividade** para se esconder em locais pequenos (armários, dutos, porta-malas).
+Devido à sua estatura e agilidade, você pode cruzar o mesmo espaço ocupado por inimigos sem testes de Força. Você recebe **+1d6 em Furtividade** ao se esconder em espaços confinados (armários, porta-malas, dutos).
 
-* **Passiva de Silêncio:** O **Dado de Ruído** ignora resultados 4 e 5 para você (só gera consequência no resultado 6).
+* **Passiva de Silêncio:** Seus passos e deslocamentos nunca avançam tiques no **Medidor de Presença da Horda** (seu peso leve não gera vibrações no piso).
 
 #### ⚠️ Defeito Obrigatório: Frágil
 
-Você não consegue usar armas de duas mãos (Rifles, Marretas, Machados de Incêndio) e não pode carregar corpos ou pesos excessivos.
+Seu PV Máximo é reduzido, calculado como **$(\text{CON} \times 2) + 5$**. Além disso, você não consegue empunhar armas pesadas de duas mãos (Rifles militares, Marretas, Machados de Incêndio) e não pode transportar corpos ou cargas volumosas.
 
 #### 🎒 Kit Inicial
 
-* **Estilingue:** Dano 1. Totalmente silencioso. Munição infinita (pedras/parafusos), mas inútil contra alvos com capacete.
-* **Mochila Escolar:** Visualmente pequena (não chama atenção), mas concede bônus para esconder itens proibidos dentro dela.
-* **Mobilidade:** Tênis de Luzinha, Skate ou Patins. Bônus de movimento em asfalto liso.
-* **Lanterna de Cabeça:** Ilumina o caminho mantendo as mãos livres para escalar.
+* **Estilingue de Precisão:** Dano 1. Totalmente silencioso. Utiliza pedras, porcas e esferas de aço como munição.
+* **Mochila Escolar Discreta:** Permite ocultar pequenos itens proibidos ou valiosos sem levantar suspeitas em inspeções.
+* **Mobilidade Urbana:** Tênis leve ou Skate/Patins (Garante movimento rápido em superfícies lisas).
+* **Lanterna de Cabeça:** Ilumina o caminho deixando ambas as mãos livres para escalar ou forçar frestas.

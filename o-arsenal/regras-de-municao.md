@@ -2,63 +2,64 @@
 
 ## Munição: O Dado de Uso (Ud)
 
-Em Extinção, não contamos balas individuais. Contamos a **reserva tática**. Toda arma de fogo possui um dado associado à sua quantidade de munição, chamado **Dado de Uso (Ud)**.
+Em **EXTINÇÃO**, não contamos projéteis individuais em tabelas lentas. Contamos a **reserva tática e a disciplina de tiro**. Toda arma de fogo possui um dado associado à sua reserva de balas, chamado **Dado de Uso (Ud)**.
 
 ### A Escala de Munição
 
-| Dado (Ud) | Estado da Reserva               |
-| :-------: | ------------------------------- |
-|  **d12**  | **Cheio / Mochila Abastecida**  |
-|  **d10**  | **Alto**                        |
-|   **d8**  | **Médio (Pente Padrão)**        |
-|   **d6**  | **Baixo**                       |
-|   **d4**  | **Crítico (Últimos cartuchos)** |
-|  **Zero** | **Vazio (Click!)**              |
+| Dado (Ud) | Estado da Reserva | Descrição Narrativa |
+| :---: | :--- | :--- |
+| **d12** | **Cheio / Abastecido** | Mochila com caixas lacradas ou farto estoque. |
+| **d10** | **Alto** | Vários carregadores cheios na bandoleira. |
+| **d8** | **Médio** | Pente padrão de serviço com alguma reserva no bolso. |
+| **d6** | **Baixo** | Últimos carregadores ou punhado de cartuchos soltos. |
+| **d4** | **Crítico** | Últimos disparos no tambor/pente. O perigo é iminente. |
+| **Zero** | **Vazio (Click!)** | O percussor bate no vazio. A arma está descarregada. |
 
 ***
 
-### Como Funciona?
+### Quando Rolar o Dado de Uso?
 
-Sempre que você terminar um combate onde disparou sua arma (ou após uma cena de tiroteio intenso), role o seu **Dado de Uso**.
+Para manter o combate ágil e a tensão constante, adota-se o modelo **Híbrido Tenso**:
 
-* **Resultado 1 ou 2:** A munição diminuiu. Substitua o dado atual pelo próximo menor na escala (Ex: d8 vira d6).
-*   **Resultado 3+:** A munição se manteve. Você gastou pouco ou teve disciplina de tiro.
+#### 1. A Verificação ao Final da Cena (Padrão)
+Se você disparou sua arma com tiros calculados durante um confronto ou tiroteio, **não interrompa a rodada**. Ao término do combate ou da cena de tiroteio, role o seu Dado de Uso atual:
+* **Resultado 1 ou 2:** A munição baixou. Substitua o dado atual pelo próximo menor na escala (ex: `d8` vira `d6`).
+* **Resultado 3+:** A munição se manteve estável graças à sua disciplina de tiro.
 
-    <div data-gb-custom-block data-tag="hint" data-style="danger" class="hint hint-danger"><p><strong>O Click da Morte:</strong> Se você rolar <strong>1 ou 2</strong> em um <strong>d4</strong>, sua munição acabou imediatamente. A arma está vazia.</p></div>
+> ⚠️ **O Click da Morte:** Se você rolar **1 ou 2** em um **d4**, sua munição acabou completamente. O dado vai a Zero.
+
+#### 2. Degradação Imediata (Durante a Luta)
+O Dado de Uso é testado ou rebaixado **imediatamente na rodada** sob três condições:
+* **Glitch em Rolagem de Tiro:** A arma engasga/trava feio e você queima munição tentando destravar sob pânico: o Ud cai imediatamente **1 nível** na hora.
+* **Manobra de Supressão:** Rebaixa o Ud em **1 nível imediatamente sem rolar** para forçar os inimigos a procurarem abrigo.
+* **Rajada Desesperada ("Spray and Pray"):** Concede bônus de dados no tiro, mas exige rolar o Ud duas vezes na mesma hora, aplicando o pior resultado.
 
 ***
 
-### 3 Ideias Táticas para Munição
+### Manobras Táticas de Munição
 
-_Aqui estão formas de usar a munição como "moeda de troca" para efeitos especiais._
+_Aqui estão as formas de usar sua reserva de balas como moeda de troca para efeitos táticos decisivos:_
 
-#### 1. Supressão (Gastar para Sobreviver)
+#### 1. Fogo de Supressão (Gastar para Cobrir Aliados)
+O sobrevivente descarrega uma saraivada contínua contra uma cobertura inimiga.
+* **Efeito:** Todos os inimigos na área escolhida sofrem **-2d6** em suas rolagens de ataque até o próximo turno.
+* **Custo:** O jogador **rebaixa automaticamente** seu Dado de Uso em 1 nível sem rolar (ex: `d8` vira `d6` direto).
 
-_Já mencionado nas regras de cobertura, mas agora com custo real._ O jogador pode declarar **"Supressão Total"**.
-
-* **Efeito:** Todos os inimigos em uma área sofrem **-2d6** em seus ataques.
-* **Custo:** O jogador **rebaixa automaticamente** o Dado de Uso em um nível (sem rolar). (Ex: d8 vira d6 direto).
-
-#### 2. "Spray and Pray" (Rajada)
-
-O jogador decide segurar o gatilho para garantir que vai acertar algo.
-
-* **Efeito:** Adiciona **+2d6** no ataque (Vantagem).
-* **Custo:** Após o ataque, role o Dado de Uso **duas vezes** e fique com o pior resultado (Desvantagem na rolagem de munição).
+#### 2. Rajada Desesperada ("Spray and Pray")
+Você segura o gatilho sem mirar com calma, saturando o ar de chumbo para garantir que o monstro caia.
+* **Efeito:** Concede **+2d6** na parada de dados do ataque.
+* **Custo:** Imediatamente após disparar, role seu Dado de Uso **duas vezes** e aplique o pior resultado obtido.
 
 #### 3. A Última Bala (Recurso Dramático)
-
-Quando o dado chegar a **Zero** (Vazio), o jogador pode declarar que achou uma bala perdida no bolso.
-
-* **Efeito:** Pode fazer um único disparo final.
-* **Consequência:** Após o tiro, a arma fica suja/travada e exige uma limpeza completa (Teste de Mecânica e 1 hora) antes de poder ser recarregada novamente.
+Quando seu dado atinge **Zero (Vazio)**, o sobrevivente pode declarar que encontrou um projétil esquecido no bolso do casaco ou solto na câmara.
+* **Efeito:** Permite realizar um único disparo final de emergência.
+* **Consequência:** Após o tiro, a arma fica suja/travada por fuligem e requer uma limpeza completa com ferramentas (*Teste de Mecânica e 1 hora de descanso*) antes de poder ser abastecida novamente.
 
 ***
 
-### Recarregando (Scavenging)
+### Reabastecendo Munição (Scavenging)
 
-Como recuperar o dado? Quando os jogadores encontram munição no cenário (Loot):
-
-* **Caixa de Munição:** Aumenta o Dado de Uso em **2 passos** (Ex: d6 vira d10).
-* **Pente/Maço:** Aumenta o Dado de Uso em **1 passo** (Ex: d6 vira d8).
-* **Balas Soltas:** Não aumentam o dado, mas permitem usar a regra "A Última Bala" sem travar a arma.
+Ao encontrar suprimentos durante a exploração:
+* **Caixa Militar Lacrada:** Aumenta o Dado de Uso em **2 passos** (ex: `d6` vira `d10`).
+* **Carregador / Pente Civil:** Aumenta o Dado de Uso em **1 passo** (ex: `d6` vira `d8`).
+* **Balas Soltas (Punhado):** Não sobem o dado geral, mas concedem 1 uso da manobra *A Última Bala* sem travar a arma.

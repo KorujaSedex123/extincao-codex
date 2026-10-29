@@ -16,7 +16,7 @@ Você pega o que está à vista, em cima de mesas ou balcões, sem revirar nada.
 
 * **Teste:** Percepção Normal.
 * **Tempo:** 1 a 5 minutos.
-* **Risco:** Padrão. O _Dado do Ruído_ só é adicionado se a situação exigir (ex: escuro, correndo).
+* **Risco:** Baixo. Não gera tiques de ruído, a menos que ocorra um Glitch.
 
 #### 🔍 Busca Minuciosa (High Risk)
 
@@ -25,8 +25,19 @@ Você abre gavetas, arrasta móveis, quebra cadeados de armários e levanta colc
 * **Bônus:** Você ganha **+1d6** no teste de Percepção (Vantagem).
 * **Tempo:** 10 a 20 minutos.
 * **Consequência Automática:** O barulho é inevitável.
-  * **Se usar Medidor de Alerta:** Adiciona **+1** ao contador da Horda automaticamente.
+  * **Se usar Medidor de Presença da Horda:** Adiciona **+1 Tique** automaticamente.
   * **Se não usar Medidor:** O Mestre rola um d6 escondido. Em 1-3, um zumbi "dorminhoco" ou errante é atraído para a sala enquanto você busca.
+
+#### 🎲 Cavar Mais Fundo (Aposta de Risco / Push-Your-Luck)
+
+Depois de encontrar suprimentos em uma Busca (seja Rápida ou Minuciosa), o sobrevivente pode notar um cofre entreaberto sob o balcão, um alçapão com cadeado enferrujado ou o forro do teto quebrado e declarar: **"Vou cavar mais fundo!"**
+
+* **A Recompensa:** O jogador realiza uma rolagem imediata em uma **Tabela de Loot de Categoria Superior** (ex: se estava em uma casa civil, rola na tabela *Médico/Químico* ou *Tático/Policial*).
+* **O Preço do Risco:**
+  1. **+1 Tique no Medidor da Horda:** O estalo de madeira rompendo ou ferro arranhando ecoa pelos corredores.
+  2. **O Teste da Emboscada (1d6):** O Controlador rola 1d6 na mesa:
+     * **1 ou 2 (O Bote):** Um **Infectado Dorminhoco** oculto sob os entulhos salta no sobrevivente a queima-roupa! Role Iniciativa imediatamente (os jogadores não podem agir de surpresa).
+     * **3 a 6 (A Sorte):** A poeira baixa e você retira o item especial intacto das ferragens.
 
 #### Regra de Ouro: Busca em Grupo (Fast Loot)
 

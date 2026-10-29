@@ -1,19 +1,34 @@
 # Mecânicas Avançadas
 
-Para sobreviventes veteranos, a sorte é apenas um detalhe. Estas regras recompensam a especialização e punem a imprudência.
+Para sobreviventes veteranos, a sorte é apenas um detalhe. Estas regras recompensam a especialização, o trabalho em equipe e o uso tático da adrenalina.
 
 ### 1. Maestria (Regra do Especialista)
 
-Um personagem com muito treinamento compensa a falta de aptidão física.
+Um personagem com alto nível técnico compensa limitações físicas e opera com precisão cirúrgica:
 
-* **Gatilho:** Se você possuir uma **Perícia Nível 4 ou 5** testada (ex: Armas de Fogo 4).
-* **Efeito:** A margem de sucesso aumenta. Resultados **5 e 6** contam como SUCESSO para atingir a dificuldade.
-  * _Nota:_ Apenas o **6** natural conta para calcular Dano Extra (Críticos).
+* **Gatilho:** Possuir uma **Perícia Nível 4 ou 5** no teste realizado (ex: *Armas de Fogo 4*, *Medicina 5*).
+* **Efeito:** A margem de acerto se expande. Resultados **5 e 6** contam como **Sucesso** para atingir a Dificuldade necessária.
+* **Nota de Dano:** Apenas o número **6** natural conta para somar Sucessos Extras de dano (críticos).
 
-### 2. Forçar o Limite (Rerolagem)
+***
 
-Quando você falha em um teste (e não foi um Glitch), você pode tentar de novo imediatamente, num ato de desespero.
+### 2. A Economia Tática (Redução de Dificuldade)
+
+Inimigos ágeis (Dificuldade 2) ou predadores de elite (Dificuldade 3) são quase impossíveis de acertar na sorte bruta. O sistema exige coordenação tática para abrir brechas na defesa do alvo:
+
+* **Mirar com Calma (Gasto de Tempo):** Gastar a **Ação Principal** do seu turno para observar a respiração e os movimentos do alvo. Seu próximo ataque contra ele no turno seguinte tem a Dificuldade reduzida em **-1 Sucesso** (mínimo de 1).
+* **Mira Rápida (Gasto de Adrenalina):** Gastar **5 PR (Stamina)** no mesmo turno em que ataca para puxar o gatilho com foco extremo. Reduz a Dificuldade do ataque atual em **-1 Sucesso** (mínimo de 1).
+* **Trabalho em Equipe e Combinação:** Ações de suporte de aliados (derrubar um inimigo com *Briga*, ofuscar com lanterna tática, usar *Flashbang* ou imobilizar) reduzem a Dificuldade do alvo em **-1 Sucesso** para os ataques dos companheiros na rodada.
+* **Emboscada / Posição:** Atacar um alvo surpreso ou pelas costas reduz a Dificuldade em **-1 Sucesso** (ou ativa a *Execução Furtiva* contra minions comuns).
+
+> *Piso Tático:* Nenhuma manobra pode reduzir a Dificuldade abaixo de **1 Sucesso**.
+
+***
+
+### 3. Forçar o Limite (Rerolagem Desesperada)
+
+Quando você falha em um teste e o resultado **não foi um Glitch**, você pode exigir o máximo do seu corpo e mente para tentar salvar a situação no desespero:
 
 * **Custo:** Sofre **+1 Ponto de Estresse** imediatamente.
-* **Ação:** Pegue todos os dados que falharam e role novamente. Você é obrigado a aceitar o novo resultado.
-* **O Risco:** Se na rerolagem você ainda falhar, o resultado é um **Glitch Automático** (Catástrofe), mesmo que não caiam números '1'.
+* **Ação:** Pegue todos os dados da parada que falharam (não tiraram 6) e role-os novamente. Você é obrigado a aceitar o novo resultado.
+* **O Risco da Quebra:** Se na rerolagem você ainda não atingir os sucessos necessários, o resultado torna-se um **Glitch Automático** (Catástrofe), independentemente dos valores tirados nos dados.
