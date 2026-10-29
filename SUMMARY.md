@@ -1,22 +1,25 @@
-# Table of Contents
+# Table of contents
 
 ## ☣️ Introdução
-* [Bem-vindo à EXTINÇÃO](README.md)
-* [Terminologia de Sobrevivência](terminologia-de-sobrevivencia.md)
-* [O Mundo da Queda](o-mundo.md)
+
+* [☣️ Bem-vindo à EXTINÇÃO](README.md)
+* [Terminologia de Sobrevivência](introducao/terminologia-de-sobrevivencia.md)
+* [O Mundo da Queda](introducao/o-mundo.md)
 
 ## 🎲 Regras e o Motor (D6)
-* [Mecânicas Básicas](mecanicas/mecanicas-basicas.md)
-* [Exemplo de Jogo](mecanicas/exemplo-de-jogo.md)
-* [Mecânicas Avançadas](mecanicas/mecanicas-avancadas.md)
-* [Mecânicas Únicas](mecanicas/mecanicas-unicas/README.md)
-  * [O Relógio de Tensão (Ruído)](mecanicas/mecanicas-unicas/o-relogio-de-tensao-ruido.md)
-  * [Infecção e Degradação](mecanicas/mecanicas-unicas/infeccao-e-degradacao.md)
-  * [Pontos de Milagre](mecanicas/mecanicas-unicas/milagre.md)
-* [Evolução e XP](criacao-de-personagem/evolucao-e-xp/README.md)
+
+* [Mecânicas Básicas](regras-e-o-motor-d6/mecanicas-basicas.md)
+* [Exemplo de Jogo](regras-e-o-motor-d6/exemplo-de-jogo.md)
+* [Mecânicas Avançadas](regras-e-o-motor-d6/mecanicas-avancadas.md)
+* [Mecânicas Únicas](regras-e-o-motor-d6/mecanicas-unicas/README.md)
+  * [O Relógio de Tensão (Ruído)](regras-e-o-motor-d6/mecanicas-unicas/o-relogio-de-tensao-ruido.md)
+  * [☣️ Infecção e Degradação](regras-e-o-motor-d6/mecanicas-unicas/infeccao-e-degradacao.md)
+  * [Pontos de Milagre](regras-e-o-motor-d6/mecanicas-unicas/milagre.md)
+* [Evolução e XP](regras-e-o-motor-d6/evolucao-e-xp.md)
 
 ## 👤 Criação de Personagem
-* [Guia de Criação de Personagem](criacao-de-personagem/README.md)
+
+* [Guia de Criação de Personagem](criacao-de-personagem/criacao-de-personagem.md)
 * [Guia de Construção (Especialistas)](criacao-de-personagem/guia-de-construcao.md)
 * [Catálogo de Habilidades](criacao-de-personagem/catalogo-de-habilidades.md)
 * [Esforço e Stamina (PR)](criacao-de-personagem/esforco-e-stamina-pr.md)
@@ -34,36 +37,41 @@
 * [Ficha de Sobrevivente](criacao-de-personagem/ficha-de-sobrevivente.md)
 
 ## 🩸 Saúde, Mente e Trauma
-* [Saúde Física e Mente](saude-e-estresse/README.md)
-* [A Quebra Mental (Colapso)](saude-e-estresse/expansao.md)
-* [Cicatrizes de Veterano](criacao-de-personagem/evolucao-e-xp/cicatrizes-de-veterano.md)
+
+* [Saúde Física e Mente](saude-mente-e-trauma/saude-e-estresse.md)
+* [A Quebra Mental (Colapso)](saude-mente-e-trauma/expansao.md)
+* [Cicatrizes de Veterano](saude-mente-e-trauma/cicatrizes-de-veterano.md)
 
 ## ⚔️ Combate e Táticas
-* [Regras de Combate e Dano](combate-e-dano/README.md)
-* [Iniciativa e Turnos](combate-e-dano/iniciativa-e-turnos.md)
-* [Combate Avançado (PvP e Humanos)](combate-e-dano/combate-avancado-pvp-e-humanos.md)
-* [Regras de Desgaste e Furtividade](combate-e-dano/regras-de-desgaste-e-furtividade.md)
-* [A Falha Crítica (Glitch)](combate-e-dano/a-falha-critica-glitch.md)
-* [Veículos e Comboios](mecanicas/veiculos-e-comboios.md)
+
+* [Regras de Combate e Dano](combate-e-taticas/combate-e-dano.md)
+* [Iniciativa e Turnos](combate-e-taticas/iniciativa-e-turnos.md)
+* [Combate Avançado (PvP e Humanos)](combate-e-taticas/combate-avancado-pvp-e-humanos.md)
+* [Regras de Desgaste e Furtividade](combate-e-taticas/regras-de-desgaste-e-furtividade.md)
+* [A Falha Crítica (Glitch)](combate-e-taticas/a-falha-critica-glitch.md)
+* [Veículos e Comboios](combate-e-taticas/veiculos-e-comboios.md)
 
 ## 🎒 Arsenal e Sobrevivência
-* [O Arsenal (Armas e Armaduras)](o-arsenal/README.md)
-* [Explosivos e Armadilhas](o-arsenal/equipamento.md)
-* [Armas Improvisadas (Fragilidade)](o-arsenal/fragilidade.md)
-* [Modificações e Gambiarras](o-arsenal/modificacoes-e-gambiarras.md)
-* [Munição e Dado de Uso (Ud)](o-arsenal/regras-de-municao.md)
-* [Scavenging e Busca](mecanicas/scavenging-e-loot.md)
+
+* [O Arsenal (Armas e Armaduras)](arsenal-e-sobrevivencia/o-arsenal.md)
+* [Explosivos e Armadilhas](arsenal-e-sobrevivencia/equipamento.md)
+* [Armas Improvisadas (Fragilidade)](arsenal-e-sobrevivencia/fragilidade.md)
+* [Modificações e Gambiarras](arsenal-e-sobrevivencia/modificacoes-e-gambiarras.md)
+* [Munição e Dado de Uso (Ud)](arsenal-e-sobrevivencia/regras-de-municao.md)
+* [Scavenging e Busca](arsenal-e-sobrevivencia/scavenging-e-loot.md)
 
 ## 👾 Bestiário e Facções
-* [Guia de Ameaças](guia-de-ameacas/README.md)
-* [A Horda (Presença e Tensão)](guia-de-ameacas/a-horda.md)
-* [Dossiê dos Infectados](guia-de-ameacas/os-infectados.md)
-* [Dossiê de Facções e Humanos](guia-de-ameacas/faccoes-e-humanos.md)
+
+* [Guia de Ameaças](bestiario-e-faccoes/guia-de-ameacas.md)
+* [🧟 A Horda (Presença e Tensão)](bestiario-e-faccoes/a-horda.md)
+* [Dossiê dos Infectados](bestiario-e-faccoes/os-infectados.md)
+* [Dossiê de Facções e Humanos](bestiario-e-faccoes/faccoes-e-humanos.md)
 
 ## 🎮 Guia do Controlador
-* [Ferramentas do Controlador](guia-do-controlador/README.md)
+
+* [Ferramentas do Controlador](guia-do-controlador/guia-do-controlador.md)
 * [Clima e Ambiente](guia-do-controlador/clima-e-ambiente.md)
 * [Gerador de Narrativa (Missões e NPCs)](guia-do-controlador/gerador-de-narrativa.md)
 * [Modos de Jogo (Extinção vs Sobrevivência)](guia-do-controlador/modos-de-jogo.md)
-* [O Refúgio e Gestão da Base](mecanicas/base-e-faccoes/gestao-da-base.md)
-* [Facções e Alianças (Diplomacia)](mecanicas/base-e-faccoes/faccoes-e-aliancas.md)
+* [O Refúgio e Gestão da Base](guia-do-controlador/gestao-da-base.md)
+* [Facções e Alianças (Diplomacia)](guia-do-controlador/faccoes-e-aliancas.md)
