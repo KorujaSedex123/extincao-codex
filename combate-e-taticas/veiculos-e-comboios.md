@@ -20,7 +20,7 @@ Veículos possuem **Integridade (PV Mecânico)**, **Blindagem (RD)** e **Tanque 
 ### Combate Veicular e Ações no Volante
 
 #### Atropelamento
-O motorista gasta sua Ação Principal e rola `Destreza + Pilotagem`:
+O motorista gasta sua **Ação Lenta** e rola `Destreza + Pilotagem`:
 * **Dano Causado:** Igual à **Blindagem do Veículo + 4** (ex: Caminhonete causa 7 de Dano no impacto).
 * **Impacto em Massa (5+ Infectados):** O veículo esmaga os mortos, mas sofre **1 de dano na Integridade** pelos detritos sob o cárter.
 * **Atropelar de Moto:** Causa 4 de Dano, mas a moto tomba e o piloto é arremessado, sofrendo **1d6 de dano direto em seus PV** (ou faz teste de Atletismo Dif 2 para rolar no asfalto).

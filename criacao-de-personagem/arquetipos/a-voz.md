@@ -11,7 +11,7 @@ Jornalista, Influencer, Pastor, Político, Psicólogo ou Líder Comunitário. Vo
 
 #### ⭐ Habilidade Única: Palavras de Conforto
 
-Sua voz é uma âncora em meio à loucura. Você pode gastar sua **Ação Principal** em combate ou numa cena de tensão para dar ordens táticas, orações ou palavras firmes de encorajamento:
+Sua voz é uma âncora em meio à loucura. Você pode gastar uma **Ação Lenta** em combate ou numa cena de tensão para dar ordens táticas, orações ou palavras firmes de encorajamento:
 * Escolha um aliado que possa te ouvir com clareza: ele recupera imediatamente **5 PR (Stamina)** ou **1 Ponto de Estresse**.
 
 #### 🎒 Kit Inicial

@@ -40,7 +40,7 @@ Gastar todo o fôlego em um apocalipse é uma aposta desesperada. Um sobrevivent
 3. **Vulnerabilidade Biológica:** Se o personagem estiver infectado, o corpo exausto perde a capacidade de retardar a replicação viral.
 
 **Recuperando o Fôlego:**
-* **Tomar Fôlego (Em Combate):** Gastar sua *Ação Principal* protegido atrás de cobertura respirando fundo: recupera **10 PR**.
+* **Tomar Fôlego (Em Combate):** Gastar sua **Ação Lenta** protegido atrás de cobertura respirando fundo: recupera **10 PR**.
 * **Consumo Rápido (Ação Livre):** Beber um gole de água do cantil ou consumir uma barra de proteína: recupera **5 PR** (uma vez por cena).
 * **A Pausa (10 Minutos Seguros):** Após o combate, trancar a sala e descansar brevemente: recupera **50% do PR Máximo**.
 * **Descanso Curto (1 Hora Segura):** Em abrigo sem ameaças imediatas: recupera **100% do PR Máximo**.
