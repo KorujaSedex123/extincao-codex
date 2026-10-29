@@ -33,7 +33,7 @@ description: Antes de começar, entenda os termos e símbolos que usaremos neste
 _Conceitos claros para manter o jogo ágil sem depender de fitas métricas._
 
 * **A Cena:** Uma unidade de tempo narrativa (como uma cena cinematográfica). Pode durar 10 minutos (uma conversa tensa) ou 1 hora (vasculhar uma farmácia). Recuperações e degradações temporais costumam ser avaliadas por cena.
-* **A Rodada (Turno):** Usada apenas durante o combate tático. Dura poucos segundos, permitindo a cada personagem 1 Movimento e 1 Ação Principal, além de manobras de PR.
+* **A Rodada (Turno):** Usada apenas durante o combate tático. Dura poucos segundos, permitindo a cada personagem **2 Ações por rodada** (1 Ação Lenta + 1 Ação Rápida, ou 2 Ações Rápidas), além de reações de PR fora do turno.
 * **Zonas de Alcance:**
   * **Toque:** Alcance corpo a corpo imediato (facas, coronhadas, mordidas de infectados).
   * **Curta:** Dentro da mesma sala ou corredor (até 10m). Ideal para pistolas e escopetas.

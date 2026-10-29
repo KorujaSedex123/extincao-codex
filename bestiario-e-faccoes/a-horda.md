@@ -79,9 +79,9 @@ Infectados comuns não lutam boxe; eles agarram, puxam, derrubam e cravam os den
 3. **Contágio Biológico Imediato:** Qualquer dano de PV sofrido no Abraço da Morte causa **Infecção Automática** imediata no sobrevivente (o vírus penetra pelos ferimentos abertos sem testes de resistência).
 
 ### Como escapar do Abraço?
-O sobrevivente desesperado deve gastar sua **Ação Principal** para realizar um teste de **Força ou Briga (Dificuldade 2)** para empurrar a massa de corpos e conseguir respirar.
+O sobrevivente desesperado deve gastar sua **Ação Lenta** para realizar um teste de **Força ou Briga (Dificuldade 2)** para empurrar a massa de corpos e conseguir respirar.
 * **Sucesso:** O personagem consegue empurrar os zumbis e se liberta, movendo-se 1 metro para trás (fora da zona de toque).
-* **Trabalho em Equipe:** Outro sobrevivente que esteja livre pode gastar sua ação principal para atacar a horda ou puxar o aliado preso, concedendo um bônus de **+2d6** na rolagem de fuga dele.
+* **Trabalho em Equipe:** Outro sobrevivente que esteja livre pode gastar sua **Ação Lenta** para atacar a horda ou puxar o aliado preso, concedendo um bônus de **+2d6** na rolagem de fuga dele.
 
 ---
 

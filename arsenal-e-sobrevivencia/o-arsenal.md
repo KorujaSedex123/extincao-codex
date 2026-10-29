@@ -43,8 +43,8 @@ Em **EXTINÇÃO**, não contamos bala por bala. Utilizamos a escala de **Dado de
 $$d12 \longrightarrow d10 \longrightarrow d8 \longrightarrow d6 \longrightarrow d4 \longrightarrow \text{Vazio (0)}$$
 
 * **A Verificação:** Rola-se o Ud ao final do combate ou tiroteio. Resultados **1 ou 2** rebaixam o dado em 1 nível.
-* **Recarga em Combate:** Trocar um carregador ou municiar a arma consome **1 Ação Principal**.
-* **Glitch de Tiro:** Se rolar um Glitch disparando arma de fogo, ela emperra imediatamente: o Ud decai 1 nível na hora e a arma exige 1 Ação Principal e teste de *Mecânica ou Armas de Fogo (Dificuldade 1)* para ser destravada.
+* **Recarga em Combate:** Trocar carregador de arma leve consome **1 Ação Rápida**. Municiar cartuchos individuais ou armas pesadas consome **1 Ação Lenta**.
+* **Glitch de Tiro:** Se rolar um Glitch disparando arma de fogo, ela emperra imediatamente: o Ud decai 1 nível na hora e a arma exige **1 Ação Lenta** e teste de *Mecânica ou Armas de Fogo (Dificuldade 1)* para ser destravada.
 
 ---
 

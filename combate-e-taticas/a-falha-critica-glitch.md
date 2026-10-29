@@ -14,7 +14,7 @@ Quando um jogador sofre um Glitch em um teste físico de alto impacto (saltar en
 
 | **d6** | **Local / Sensação Descrita** | **Efeito Mecânico (Revelado ao tentar usar)** |
 | :---: | :--- | :--- |
-| **1** | **Cabeça:** "Tudo gira e você vê pontos brancos." | **Concussão:** Perde a próxima Ação Principal. |
+| **1** | **Cabeça:** "Tudo gira e você vê pontos brancos." | **Concussão:** Perde a próxima Ação Lenta. |
 | **2** | **Braço/Mão:** "Você sente um estalo agudo no pulso/ombro." | **Inutilizado:** -2d6 para usar este braço até ser tratado; solta o item que segurava. |
 | **3** | **Perna/Pé:** "Uma dor lancinante sobe pela canela ao pisar." | **Torção:** Movimento reduzido à metade; proibido usar a ação Correr. |
 | **4** | **Tórax:** "O ar é arrancado dos seus pulmões com força." | **Fôlego:** Perde metade do PR (Stamina) atual imediatamente. |

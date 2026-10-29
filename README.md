@@ -35,15 +35,14 @@ O sistema foi desenhado para ser invisível, priorizando a tensão narrativa ext
 O Codex está organizado em seções e capítulos claros para facilitar a leitura no GitBook:
 
 * **`SUMMARY.md`** — O índice geral que organiza toda a estrutura lateral de páginas do GitBook.
-* **`terminologia-de-sobrevivencia.md`** — Definição dos participantes (Controlador e Sobreviventes), medidores de sobrevivência (Medidor de Presença da Horda e Rastreador de Infecção) e conceitos de tempo/espaço (Cenas, Rodadas e Zonas de Alcance).
-* **`o-mundo.md`** — Linha do tempo desde o Dia Zero até a Era da Extinção, oficina para o Mestre decidir a verdade por trás do vírus e ganchos de cidades.
-* **`criacao-de-personagem/`** — Passo a passo para criar sua ficha de sobrevivente comum, calculando PV, PR (Stamina) e escolhendo Atributos e Perícias.
-* **`mecanicas/`** — Da mecânica básica de sucesso à Regra do Instinto, Maestria para especialistas, regras para Forçar o Limite e o impacto dos Pontos de Milagre.
-* **`combate-e-dano/`** — Como calcular dano letal (Perícia + Arma + Sucessos Extras), manobras táticas de combate, regras de cobertura e disputas PvP.
-* **`saude-e-estresse/`** — Regras detalhadas de integridade física (PV), fôlego (PR) e fadiga por exaustão, além do funcionamento de Ferimentos Persistentes e Traumas Mentais.
-* **`o-arsenal/`** — Tabelas e regras de armas brancas, armas de fogo, proteções ablativas (coletes e casacos de couro) e modificações de armas (silenciador PET, miras caseiras).
-* **`guia-de-ameacas/`** — Fichas e táticas contra a Horda (e o temido "Abraço da Morte") e dossiê completo de infectados (Necróticos, Raivosos, Fúngicos, Gritadores e o temido predador Volátil).
-* **`guia-do-controlador/`** — Ferramentas exclusivas do Mestre para gerenciar a dificuldade, o Medidor de Alerta, tabelas de saques residenciais/militares e geradores de missões rápidas.
+* **`introducao/`** — Terminologia de sobrevivência, medidores de tensão (Relógio da Horda, Infecção) e o cenário da Queda (*O Mundo da Queda*).
+* **`regras-e-o-motor-d6/`** — O motor D6, a Falha Crítica (Glitch), Forçar o Limite, Regra do Instinto, Maestria e mecânicas únicas (Relógio de Ruído, Infecção Biológica e Milagres).
+* **`criacao-de-personagem/`** — Passo a passo para criar o sobrevivente, Catálogo de Traços com Balanço de Pontos (*Project Zomboid*), Stamina (PR) e os Arquétipos.
+* **`saude-mente-e-trauma/`** — Integridade física (PV), Fôlego (PR), Sistema de Estresse, Rolagem de Espasmo Nervoso (com Fúria Berserker), Traumas e Âncoras Morais.
+* **`combate-e-taticas/`** — Economia de 2 Ações por rodada (Ação Lenta + Ação Rápida), cálculo de dano letal, manobras de cobertura, regras PvP e veículos.
+* **`arsenal-e-sobrevivencia/`** — Catálogo de armas brancas e de fogo, Dado de Uso (`Ud`) para munição e recursos, armaduras, gambiarras e regras de scavenging.
+* **`bestiario-e-faccoes/`** — A Horda e o Dado de Massa (`d4 a d12`), Abraço da Morte e dossiê de infectados (Necróticos, Raivosos, Fúngicos, Gritadores e Voláteis).
+* **`guia-do-controlador/`** — Ferramentas do Mestre, Clima, Gestão do Refúgio (Defesa, Recursos, Moral com Dilemas Éticos) e Diplomacia de Facções.
 
 ---
 

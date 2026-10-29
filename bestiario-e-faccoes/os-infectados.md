@@ -39,7 +39,7 @@ Uma mutação com pulmões e cordas vocais hipertrofiados. Ele não luta; ele ch
 * **Classe:** Especial
 * **Defesa:** 1 Sucesso (Frágil).
 * **PV:** 4 (Cai rápido, se você chegar perto).
-* **Ataque Especial:** **O Grito.** Não causa dano físico, mas atordoa todos na área (Teste de Vontade ou perde a próxima Ação Principal) e **avança o Medidor de Presença da Horda imediatamente para o Nível 6** (A Horda estoura e converge para a sala na hora).
+* **Ataque Especial:** **O Grito.** Não causa dano físico, mas atordoa todos na área (Teste de Vontade ou perde a próxima Ação Lenta) e **avança o Medidor de Presença da Horda imediatamente para o Nível 6** (A Horda estoura e converge para a sala na hora).
 
 ### 👑 O Volátil (Predador Alfa)
 

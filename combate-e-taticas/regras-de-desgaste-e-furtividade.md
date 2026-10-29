@@ -28,7 +28,7 @@ O corpo entra em colapso. O sistema nervoso tenta desligar para proteger a mente
 * Falha (Atordoado): O personagem entra em estado de Choque.
   * Derrubado: Cai no chão imediatamente.
   * Desarmado: Solta qualquer item que esteja segurando nas mãos.
-  * Zonzo: Perde sua próxima Ação Principal (não pode atacar).
+  * Zonzo: Perde sua próxima Ação Lenta (não pode atacar).
   * _Nota Tática:_ O personagem ainda pode usar sua Ação de Movimento para se arrastar para cobertura ou gritar, mantendo a agência do jogador mesmo em situações críticas.
 
 
